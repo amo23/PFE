@@ -1,0 +1,13 @@
+.Header {  background-color: #666666}
+.CurrentCategory {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #FFCC66}
+.CurrentDescription {  font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #F0F0F0}
+.MainTable {  background-color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; border: #000000 none; color: #FFFFFF}
+.NavigationBar {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; background-color: #F3F3F3; color: #000000}
+.CategoriesList {  background-color: #FFFFFF}
+.CategoriesList_category {  font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold}
+.CategoriesList_description {  font-family: Arial, Helvetica, sans-serif; font-size: 10px}
+.FilesCellColor {  background-color: #FFFFFF; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000}
+A:link {text-decoration: font-weight:bolder; color: blue}
+A:visited {text-decoration: font-weight:bolder; color: blue}
+A:active {text-decoration: font-weight:bolder; color: green}
+A:hover {text-decoration: font-weight:bolder; color: red}

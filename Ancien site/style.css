@@ -1,0 +1,10 @@
+h1           { font-family: Verdana; font-size: 14pt; color: #B30722; text-align: left }
+.test        { font-family: Tahoma; font-size: 18pt }
+body         { font-family: Verdana; font-size: 8pt }
+.summary     { font-family: Verdana; font-size: 10pt; color: #808080; font-weight: bold }
+h2           { font-family: Verdana; font-size: 10pt; color: #808080; font-weight: bold }
+h3           { font-family: Verdana; font-size: 8pt; ; font-weight: bold }
+li           { list-style-type: square; font-size:8pt; font-family:Verdana; text-align:left; color:#000000; margin-left:20 }
+'a            { font-family: Arial; font-size: 11px; color: #B30722}
+'a:hover      { font-family: Arial; font-size: 11px; color: #000080}
+'a:active     { font-family: Arial; font-size: 11px; color: #B30722}

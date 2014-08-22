@@ -1,0 +1,15 @@
+<%
+'//// Include for CDONTS ////
+
+emailcomponent="CDONTS"
+sub sendmail(recipient,senderemail,subject,message)
+	Set objCDO = Server.CreateObject("CDONTS.NewMail")
+	objCDO.To = recipient
+	objCDO.From = defaultemail
+	objCDO.Value("Reply-To") = senderemail
+	objCDO.Subject = subject
+	objCDO.Body = message
+	objCDO.Send
+	Set objCDO = Nothing
+end sub
+%>

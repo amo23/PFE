@@ -1,0 +1,117 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1330" measuredH="1391" mockupW="968" mockupH="1359">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="370" y="32" w="220" h="94" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="605" y="61" w="725" h="37" measuredW="667" measuredH="30" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>2</selectedIndex>
+        <size>16</size>
+        <text>Accueil%2C%20Axes%20de%20recherche%2C%20Missions%20et%20Projets%2C%20Ressources%2C%20Equipe%2C%20Contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TabBar" x="362" y="458" w="960" h="621" measuredW="629" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Missions%20de%20recherche%2C%20Mission%20d%27accompagnement%2C%20Mission%20d%27%E9valuation%2C%20Mission%20de%20formation</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="383" y="171" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="474" y="197" w="-1" h="-1" measuredW="254" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dernier%20projet%20en%20cours</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="384" y="274" w="511" h="146" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Fusce%20sit%20amet%20leo%20velit.%20Praesent%20ac%20facilisis%20magna.%20Cras%20convallis%20sem%20vitae%20ipsum%20dapibus%20facilisis.%20Nulla%20dolor%20turpis%2C%20rutrum%20tincidunt%20lorem%20sed%2C%20rutrum%20facilisis%20tellus.%20Vivamus%20venenatis%20pharetra%20ante%2C%20ac%20facilisis%20est%20ullamcorper%20a.%20Pellentesque%20sit%20amet%20imperdiet%20nisl.%20In%20dictum%20venenatis%20sapien%20vitae%20auctor.%20Praesent%20mollis%20neque%20quis%20ullamcorper%20facilisis.%20In%20tristique%20urna%20laoreet%20nisl%20mollis%20pharetra.%20Pellentesque%20cursus%20in%20purus%20nec%20bibendum.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="924" y="197" w="378" h="204" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::VRule" x="1071" y="499" w="-1" h="557" measuredW="10" measuredH="100" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="386" y="538" w="652" h="518" measuredW="200" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0ALa%20recherche%20proprement%20dite%20consiste%20%E0%20analyser%20les%20tendances%20observ%E9es%20dans%20les%20organisations%20contemporaines%20et%20%E0%20tenter%20de%20les%20mod%E9liser%20%3B%20elle%20constitue%20la%20base%20m%E9thodologique%20et%20conceptuelle%20indispensable%20aux%20autres%20missions%2C%20sans%20laquelle%20celles-ci%20se%20condamneraient%20%E0%20n%u2019%EAtre%20que%20des%20op%E9rations%20purement%20r%E9p%E9titives%20et%20sans%20valeur%20ajout%E9e%3B%20elle%20d%E9bouche%20sur%20une%20intense%20activit%E9%20de%20publication%2C%20signe%20d%u2019une%20prise%20de%20distance%20salutaire%20par%20rapport%20aux%20diverses%20interventions%20men%E9es%20%3B%0A%20%0A%20%0ATout%20en%20restant%20ouverte%20%E0%20diverses%20approches%20th%E9oriques%2C%20la%20recherche%20men%E9e%20au%20LENTIC%20se%20fonde%20sur%20un%20certain%20nombre%20d%u2019acquis%20provenant%20de%20l%u2019observation%20et%20de%20l%u2019analyse%20de%20situations%20de%20changement%20organisationnel%3A%0A%20%0AL%u2019approche%20de%20la%20contingence%20qui%20valorise%20la%20coh%E9rence%20des%20choix%20manag%E9riaux%2C%20%E0%20la%20fois%20internes%20et%20externes.%20En%20mati%E8re%20de%20GRH%2C%20cette%20approche%20contribue%20%E0%20examiner%20la%20coh%E9rence%20des%20actions%20de%20GRH%20les%20unes%20par%20rapport%20aux%20autres%2C%20en%20r%E9f%E9rence%20aux%20diff%E9rents%20mod%E8les%20d%E9gag%E9s%20par%20la%20recherche%20%28Pichault%20et%20Nizet%2C%202000%29%20%3B%20elle%20%E9value%20%E9galement%20l%u2019articulation%20entre%20mod%E8les%20de%20GRH%20et%20fonctionnements%20organisationnels%20concrets%2C%20les%20premiers%20d%E9pendant%20largement%20des%20seconds%20et%20non%20l%u2019inverse%20%28Nizet%20et%20Pichault%2C%202001%29%20%3B%0A%20%0AL%u2019approche%20%AB%20politique%20%BB%20%28Pichault%2C%201996%29%20qui%20consid%E8re%20la%20divergence%20d%u2019int%E9r%EAts%20comme%20une%20donn%E9e%20%E0%20la%20base%20de%20tout%20fonctionnement%20organisationnel%2C%20qui%20se%20force%20%E0%20identifier%20les%20diff%E9rents%20protagonistes%20%28stakeholders%29%20en%20pr%E9sence%20dans%20une%20situation%20quelconque%20et%20%E0%20examiner%20%u2014voire%20%E0%20anticiper%u2014%20leurs%20atouts%2C%20leurs%20capacit%E9s%20d%u2019alliance%20et%20leurs%20r%E9actions%20face%20aux%20projets%20de%20changement%20qui%20les%20concernent%20%3B%0A%20%0AL%u2019approche%20%AB%20contextualiste%20%BB%20%28Brouwers%2C%20Cornet%2C%20Guttierez%2C%20Pichault%2C%20Rousseau%20et%20Warnotte%2C%201997%29%20%20qui%20envisage%20toute%20situation%20de%20changement%20comme%20le%20produit%20d%u2019une%20interaction%20entre%20un%20contenu%20soumis%20%E0%20mutation%20%28en%20mati%E8re%20de%20GRH%2C%20d%u2019organisation%2C%20de%20technologies%20de%20l%u2019information%2C%20etc.%29%2C%20un%20contexte%20%28%E0%20la%20fois%20interne%20et%20externe%29%20et%20un%20processus%20%28les%20jeux%20d%u2019acteurs%20mobilisant%20les%20%E9l%E9ments%20du%20contexte%20en%20vue%20d%u2019influencer%20les%20%E9volutions%20du%20contenu%20conform%E9ment%20%E0%20leurs%20int%E9r%EAts%2C%20les%20%AB%20traductions%20%BB%20qui%20s%u2019op%E8rent%20ainsi%20entre%20leurs%20objectifs%20sp%E9cifiques%2C%20etc.%29%0A%20%0ALa%20conviction%20qui%20sous-tend%20l%u2019activit%E9%20de%20recherche%20du%20LENTIC%20est%20que%20de%20tels%20acquis%20th%E9oriques%20peuvent%20devenir%20des%20outils%20efficaces%20de%20management%20dans%20la%20mesure%20o%F9%20ils%20permettent%20de%20guider%20la%20gestion%20m%EAme%20du%20changement%20%28Rorive%2C%202003%29.</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Title" x="578" y="503" w="-1" h="-1" measuredW="235" measuredH="43" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>La%20recherche</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::SubTitle" x="1087" y="511" w="-1" h="-1" measuredW="227" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Projets%20de%20recherche%20en%20cours...</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Paragraph" x="1087" y="552" w="220" h="504" measuredW="200" measuredH="80" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Recherche%20sur%20la%20contribution%20de%20la%20GRH%20%E0%20la%20performance%20dans%20les%20TPE/PME%20et%20promotion%20des%20innovations%20en%20mati%E8re%20de%20GRH%20dans%20le%20monde%20des%20TPE/PME%20en%20Wallonie%20et%20%E0%20Bruxelles.%0AAcerta%2C%20Belgique%2C%202012-2015%0A%20%0AR%E9alisation%20d%27une%20%E9tude%20prospective%20%22Transition%20%E9nerg%E9tique%22%20en%20collaboration%20avec%20Climact%2C%20la%20Task%20Force%20D%E9veloppement%20durable%20%28TFDD%29%20du%20Bureau%20f%E9d%E9ral%20du%20plan%2C%20l%u2019Institut%20de%20Conseil%20et%20d%u2019Etudes%20en%20D%E9veloppement%20Durable%20%28ICEDD%29%2C%20le%20Center%20for%20Operations%20Research%20and%20Econometrics%20%28CORE%2C%20UCL%29%20et%20l%u2019Institut%20pour%20un%20D%E9veloppement%20Durable%20%28IDD%29.%0AInstitut%20Wallon%20de%20l%27Evaluation%2C%20de%20la%20Prospective%20et%20de%20la%20Statistique%20%28IWEPS%29%2C%20Belgique%2C%202012-2014%0A%20%0A....</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="__group__" x="362" y="1098" w="960" h="293" measuredW="960" measuredH="293" zOrder="12" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="960" h="293" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="14"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="15" y="15" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="14">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="106" y="41" w="-1" h="-1" measuredW="142" measuredH="27" zOrder="2" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Plan%20d%27acc%E8s</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Map" x="17" y="98" w="247" h="167" measuredW="252" measuredH="222" zOrder="3" locked="false" isInGroup="14"/>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="309" y="15" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="14">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="400" y="41" w="-1" h="-1" measuredW="146" measuredH="27" zOrder="5" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Coordonn%E9es</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::IconLabel" x="304" y="113" w="126" h="-1" measuredW="115" measuredH="48" zOrder="6" locked="false" isInGroup="14">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <labelPosition>right</labelPosition>
+            <text>T%E9l%E9phone</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="304" y="176" w="126" h="-1" measuredW="72" measuredH="48" zOrder="7" locked="false" isInGroup="14">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <labelPosition>right</labelPosition>
+            <text>Fax</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::IconLabel" x="304" y="232" w="126" h="-1" measuredW="83" measuredH="48" zOrder="8" locked="false" isInGroup="14">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <labelPosition>right</labelPosition>
+            <text>Email</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="594" y="86" w="296" h="137" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="14">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

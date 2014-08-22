@@ -1,0 +1,5 @@
+
+(function($){var repeater={$el:null,set:function(o){$.extend(this,o);return this;},init:function(){this.render();},render:function(){var id=this.$el.attr('data-id'),layout='table';if(this.$el.find('input[name="fields['+id+'][layout]"]:checked').length>0)
+{layout=this.$el.find('input[name="fields['+id+'][layout]"]:checked').val();}
+this.$el.find('.repeater:first').removeClass('layout-row layout-table').addClass('layout-'+layout);}};$(document).ready(function(){$('.field_type-repeater').each(function(){repeater.set({$el:$(this)}).init();});});$(document).on('click','.field_option_repeater_layout input[type="radio"]',function(e){repeater.set({$el:$(this).closest('.field_type-repeater')}).render();});$(document).on('acf/field_form-open',function(e,field){$el=$(field);if($el.hasClass('field_type-repeater'))
+{repeater.set({$el:$el}).render();}});})(jQuery);

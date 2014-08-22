@@ -1,0 +1,3 @@
+
+$(document).ready(function(){isAccessible=false;if($.cookie('isAccessible')=='true'){$('body').addClass('isAccessible');$('#isAccessible').text('Retour version normal du site');isAccessible=true;}
+$('#isAccessible').click(function(e){e.preventDefault();if(isAccessible){$.cookie('isAccessible',null);isAccessible=false;$('body').removeClass('isAccessible');$('#isAccessible').text('Version du site pour malvoyants');}else{$.cookie('isAccessible',true,{expires:7});$('body').addClass('isAccessible');$('#isAccessible').text('Retour version normale du site');isAccessible=true;}})})

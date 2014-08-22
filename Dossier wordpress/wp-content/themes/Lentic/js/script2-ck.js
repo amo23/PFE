@@ -1,0 +1,2 @@
+
+(function(e){"use strict";var t=8e3,n,r,i,s,o=function(){var e,r;(e=n.filter(":visible")).delay(t).fadeOut(function(){((r=e.next()).size()?r:n.first()).fadeIn(o)})},u=function(){var t="http://maps.googleapis.com/maps/api/staticmap?",n=[];n.push("center= 50.58144,5.56092");n.push("zoom=16");n.push("size=640x600");n.push("sensor=false");n.push("maptype=roadmap");n.push("markers=50.58144,5.56092");e("#gmap img").attr("src",t+n.join("&"))};e(function(){(n=e("#slide div")).not(":first").hide();o();u()})}).call(this,jQuery);

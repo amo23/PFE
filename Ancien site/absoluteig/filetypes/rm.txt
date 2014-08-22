@@ -1,0 +1,2 @@
+<embed SRC="$$URL$$?embed" WIDTH="440" HEIGHT="320"CONTROLS="ImageWindow" CONSOLE="one" MAINTAINASPECT="true"></embed><br>
+<embed SRC="$$URL$$?embed" WIDTH="440" HEIGHT="20" CONTROLS="ControlPanel" CONSOLE="one" AUTOSTART="false"></embed>

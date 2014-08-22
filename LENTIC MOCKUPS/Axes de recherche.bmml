@@ -1,0 +1,161 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1330" measuredH="1018" mockupW="960" mockupH="986">
+  <controls>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Title" x="370" y="181" w="960" h="-1" measuredW="594" measuredH="43" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Les%20axes%20de%20recherche%20du%20Lentic</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="370" y="274" w="-1" h="-1" measuredW="212" measuredH="19" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Technologies%20de%20l%27information%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::SubTitle" x="370" y="293" w="-1" h="-1" measuredW="167" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>et%20de%20la%20communication</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::SubTitle" x="611" y="274" w="-1" h="-1" measuredW="205" measuredH="19" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Mutations%20organisationnelles</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::SubTitle" x="857" y="274" w="200" h="-1" measuredW="131" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Mutations%20en%20GRH</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SubTitle" x="1103" y="274" w="227" h="-1" measuredW="221" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Mutations%20du%20march%E9%20du%20travail</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Paragraph" x="373" y="342" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Aliquam%20vitae%20massa%20accumsan%2C%20vehicula%20lorem%20vel%2C%20rhoncus%20risus.%20Nullam%20ut%20velit%20vitae%20massa%20fringilla%20varius%20id%20sit%20amet%20justo.%20Vivamus%20mollis%20lacus%20justo%2C%20ut%20dictum%20nunc%20interdum%20sit%20amet.%20Nam%20sit%20amet%20lacinia%20lorem%2C%20nec%20auctor%20sapien.</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Paragraph" x="373" y="342" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Aliquam%20vitae%20massa%20accumsan%2C%20vehicula%20lorem%20vel%2C%20rhoncus%20risus.%20Nullam%20ut%20velit%20vitae%20massa%20fringilla%20varius%20id%20sit%20amet%20justo.%20Vivamus%20mollis%20lacus%20justo%2C%20ut%20dictum%20nunc%20interdum%20sit%20amet.%20Nam%20sit%20amet%20lacinia%20lorem%2C%20nec%20auctor%20sapien.</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Paragraph" x="611" y="342" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Aliquam%20vitae%20massa%20accumsan%2C%20vehicula%20lorem%20vel%2C%20rhoncus%20risus.%20Nullam%20ut%20velit%20vitae%20massa%20fringilla%20varius%20id%20sit%20amet%20justo.%20Vivamus%20mollis%20lacus%20justo%2C%20ut%20dictum%20nunc%20interdum%20sit%20amet.%20Nam%20sit%20amet%20lacinia%20lorem%2C%20nec%20auctor%20sapien.</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Paragraph" x="857" y="342" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Aliquam%20vitae%20massa%20accumsan%2C%20vehicula%20lorem%20vel%2C%20rhoncus%20risus.%20Nullam%20ut%20velit%20vitae%20massa%20fringilla%20varius%20id%20sit%20amet%20justo.%20Vivamus%20mollis%20lacus%20justo%2C%20ut%20dictum%20nunc%20interdum%20sit%20amet.%20Nam%20sit%20amet%20lacinia%20lorem%2C%20nec%20auctor%20sapien.</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Paragraph" x="1103" y="342" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Aliquam%20vitae%20massa%20accumsan%2C%20vehicula%20lorem%20vel%2C%20rhoncus%20risus.%20Nullam%20ut%20velit%20vitae%20massa%20fringilla%20varius%20id%20sit%20amet%20justo.%20Vivamus%20mollis%20lacus%20justo%2C%20ut%20dictum%20nunc%20interdum%20sit%20amet.%20Nam%20sit%20amet%20lacinia%20lorem%2C%20nec%20auctor%20sapien.</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::List" x="373" y="444" w="200" h="126" measuredW="100" measuredH="126" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Quels%20sont%20les%20pr%E9suppos%E9s%20organisationnels%0A%20inscrits%20dans%20les%20choix%20technologiques%20%3F%0AQuelle%20est%20l%u2019influence%20des%20contextes%20%0Adans%20lesquelles%20les%20technologies%20sont%20introduites%20%3F%20%0A...</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::List" x="611" y="444" w="200" h="126" measuredW="100" measuredH="126" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Quels%20sont%20les%20pr%E9suppos%E9s%20organisationnels%0A%20inscrits%20dans%20les%20choix%20technologiques%20%3F%0AQuelle%20est%20l%u2019influence%20des%20contextes%20%0Adans%20lesquelles%20les%20technologies%20sont%20introduites%20%3F%20%0A...</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::List" x="857" y="444" w="200" h="126" measuredW="100" measuredH="126" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Quels%20sont%20les%20pr%E9suppos%E9s%20organisationnels%0A%20inscrits%20dans%20les%20choix%20technologiques%20%3F%0AQuelle%20est%20l%u2019influence%20des%20contextes%20%0Adans%20lesquelles%20les%20technologies%20sont%20introduites%20%3F%20%0A...</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::List" x="1103" y="444" w="200" h="126" measuredW="100" measuredH="126" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Quels%20sont%20les%20pr%E9suppos%E9s%20organisationnels%0A%20inscrits%20dans%20les%20choix%20technologiques%20%3F%0AQuelle%20est%20l%u2019influence%20des%20contextes%20%0Adans%20lesquelles%20les%20technologies%20sont%20introduites%20%3F%20%0A...</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Paragraph" x="372" y="601" w="958" h="116" measuredW="200" measuredH="80" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ces%20axes%20se%20r%E9f%E8rent%20tous%20%E0%20la%20probl%E9matique%20du%20changement%2C%20quelle%20que%20soit%20sa%20nature%20%28technologie%2C%20organisation%2C%20GRH%29%20ou%20le%20niveau%20%28micro%20ou%20macro%29%20auquel%20il%20se%20situe.%20Des%20changements%20de%20natures%20aussi%20diverses%20que%20l%u2019introduction%20d%u2019un%20syst%E8me%20ERP%2C%20le%20lancement%20d%u2019un%20reengineering%20de%20process%2C%20la%20privatisation%20d%u2019une%20entreprise%20publique%2C%20etc.%20renvoient%20in%E9vitablement%20%E0%20des%20questions%20et%20enjeux%20similaires%20en%20termes%20de%20r%E9sistance%20au%20changement%2C%20de%20r%E9organisation%2C%20de%20jeux%20de%20pouvoir%2C%20etc.%20De%20la%20m%EAme%20mani%E8re%2C%20les%20mutations%20macro-%E9conomiques%20%28flexibilit%E9%20accrue%2C%20choc%20d%E9mographique%2C%20nouvelles%20logiques%20d%u2019emploi%2C%20etc.%29%20ne%20peuvent%20s%u2019appr%E9hender%20concr%E8tement%20sans%20une%20observation%20approfondie%20de%20leur%20ancrage%20organisationnel%2C%20%E0%20un%20niveau%20micro-%E9conomique.</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="__group__" x="370" y="725" w="960" h="293" measuredW="960" measuredH="293" zOrder="17" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="960" h="293" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="35"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="15" y="15" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="35">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="106" y="41" w="-1" h="-1" measuredW="142" measuredH="27" zOrder="2" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>Plan%20d%27acc%E8s</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Map" x="17" y="98" w="247" h="167" measuredW="252" measuredH="222" zOrder="3" locked="false" isInGroup="35"/>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="309" y="15" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="35">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="400" y="41" w="-1" h="-1" measuredW="146" measuredH="27" zOrder="5" locked="false" isInGroup="35">
+          <controlProperties>
+            <text>Coordonn%E9es</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::IconLabel" x="304" y="113" w="126" h="-1" measuredW="115" measuredH="48" zOrder="6" locked="false" isInGroup="35">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <labelPosition>right</labelPosition>
+            <text>T%E9l%E9phone</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="304" y="176" w="126" h="-1" measuredW="72" measuredH="48" zOrder="7" locked="false" isInGroup="35">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <labelPosition>right</labelPosition>
+            <text>Fax</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::IconLabel" x="304" y="232" w="126" h="-1" measuredW="83" measuredH="48" zOrder="8" locked="false" isInGroup="35">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <labelPosition>right</labelPosition>
+            <text>Email</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="594" y="86" w="296" h="137" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="35">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="36" controlTypeID="__group__" x="370" y="32" w="960" h="94" measuredW="960" measuredH="94" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="220" h="94" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="36">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="235" y="29" w="725" h="37" measuredW="667" measuredH="30" zOrder="1" locked="false" isInGroup="36">
+          <controlProperties>
+            <selectedIndex>1</selectedIndex>
+            <size>16</size>
+            <text>Accueil%2C%20Axes%20de%20recherche%2C%20Missions%20et%20Projets%2C%20Ressources%2C%20Equipe%2C%20Contact</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
